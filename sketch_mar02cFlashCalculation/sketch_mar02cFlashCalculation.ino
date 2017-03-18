@@ -1,5 +1,19 @@
-/*4x4 Matrix Keypad connected to Arduino
-  This code prints the key pressed on the keypad to the serial port*/
+/*
+ * Simple Calculator (Imcomplete)
+ * 4x4 Matrix Keypad connected to Arduino
+  This code prints the key pressed on the keypad to the serial port
+
+  Check GitHub(https://github.com/matzTada/SimpleCalc) for further information.
+
+  references
+  http://playground.arduino.cc/Code/Keypad
+  http://www.learningaboutelectronics.com/Articles/Arduino-keypad-circuit.php
+
+  http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg
+  http://garretlab.web.fc2.com/arduino/introduction/beginning_with_7segment_led/
+
+  2017/3/19 modified by TadaMatz
+*/
 
 #include <Keypad.h>
 

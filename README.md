@@ -1,8 +1,34 @@
-#Calc
-some exlanations...  
+#SimpleCalc
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-ei_GP5pkSE
+" target="_blank"><img src="http://img.youtube.com/vi/-ei_GP5pkSE/0.jpg " 
+alt="movie on youtube" width=100% border="10" /></a>  
+[movie on youtube](https://www.youtube.com/watch?v=-ei_GP5pkSE)  
 
-###Pin assign
+##What you need?
+* Arduino UNO  
+* 4x4 Keypad
+* 7 segment 4 digits display  
+
+##Keypad
+The Keypad used in this project. <https://www.parallax.com/product/27899>  
+
+references  
+
+* <http://playground.arduino.cc/Code/Keypad>
+* <http://www.learningaboutelectronics.com/Articles/Arduino-keypad-circuit.php>
+
+##7 segment 4 digits display
+HS-3461BS is used  
+
+references  
+
+* <http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg>
+* <http://garretlab.web.fc2.com/arduino/introduction/beginning_with_7segment_led/>
+
+<a><img src="http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg" alt="" width=50%></a>  
+
+##Pin assign
 
 Arduino|Other  
 --- | ---   
@@ -27,21 +53,3 @@ A3 (17) | Keypad 4 (col 0)
 A4 (18) | Keypad 3 (row 3)  
 A5 (19) | Keypad 2 (row 2)  
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_MOVIE_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_MOVIE_ID_HERE/0.jpg " 
-alt="movie on youtube" width=40% border="10" /></a>  
-[movie on youtube](https://www.youtube.com/watch?v=YOUTUBE_MOVIE_ID_HERE)  
-you must change 3 places "YOUTUBE_MOVIE_ID_HERE" to your same movie id.
-
-Overview of this project.
-
-## Proparation
-Explanation.  
-
-* <https://matztada.github.io>  
-* [link](https://matztada.github.io)
-
-## Images
-
-<a><img src="https://matztada.github.io/images/logo.jpg" alt="" width=50%></a>  

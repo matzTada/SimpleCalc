@@ -1,3 +1,14 @@
+/*
+
+  Check GitHub(https://github.com/matzTada/SimpleCalc) for further information.
+
+  references
+  http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg
+  http://garretlab.web.fc2.com/arduino/introduction/beginning_with_7segment_led/
+
+  2017/3/19 modified by TadaMatz
+*/
+
 const int cathode_pins[] = {12, 8, 5, 3, 2, 11, 6};    // {1,2,3,4,5,6,7}th from LEFT (a,b,c,d,e,f,g,df) アノードに接続するArduinoのピン
 const int anode_pins [] = {7, 9, 10, 13};  // {1, 2, 3, 4}th from RIGHT (dig4, dig3, dig2, dig1) カソードに接続するArduinoのピン
 const int number_of_cathode_pins = sizeof(cathode_pins) / sizeof(cathode_pins[0]);
