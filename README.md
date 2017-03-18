@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ei_GP5pkSE
 " target="_blank"><img src="http://img.youtube.com/vi/-ei_GP5pkSE/0.jpg " 
-alt="movie on youtube" width=100% border="10" /></a>  
+alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=-ei_GP5pkSE)  
 
 ##What you need?
@@ -29,6 +29,9 @@ references
 <a><img src="http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg" alt="" width=50%></a>  
 
 ##Pin assign
+
+<a><img src="https://github.com/matzTada/SimpleCalc/blob/master/calc_breadboard.png" 
+alt="calc_breadboard" width=50%></a>
 
 Arduino|Other  
 --- | ---   
