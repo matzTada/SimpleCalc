@@ -1,7 +1,7 @@
 #SimpleCalc
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ei_GP5pkSE
-" target="_blank"><img src="http://img.youtube.com/vi/-ei_GP5pkSE/0.jpg " 
+" target="_blank"><img src="http://img.youtube.com/vi/-ei_GP5pkSE/0.jpg" 
 alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=-ei_GP5pkSE)  
 
