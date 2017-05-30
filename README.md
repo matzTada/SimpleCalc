@@ -1,16 +1,16 @@
-#SimpleCalc
+# SimpleCalc
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ei_GP5pkSE
 " target="_blank"><img src="http://img.youtube.com/vi/-ei_GP5pkSE/0.jpg" 
 alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=-ei_GP5pkSE)  
 
-##What you need?
+## What you need?
 * Arduino UNO  
 * 4x4 Keypad
 * 7 segment 4 digits display  
 
-##Keypad
+## Keypad
 The Keypad used in this project. <https://www.parallax.com/product/27899>  
 
 references  
@@ -18,7 +18,7 @@ references
 * <http://playground.arduino.cc/Code/Keypad>
 * <http://www.learningaboutelectronics.com/Articles/Arduino-keypad-circuit.php>
 
-##7 segment 4 digits display
+## 7 segment 4 digits display
 HS-3461BS is used  
 
 references  
@@ -28,7 +28,7 @@ references
 
 <a><img src="http://img.hqew.com/File/Images/250000-259999/251308/Electronic/2012816113627928480.jpg" alt="" width=50%></a>  
 
-##Pin assign
+## Pin assign
 
 <a><img src="https://github.com/matzTada/SimpleCalc/blob/master/calc_breadboard.png" 
 alt="calc_breadboard" width=50%></a>
